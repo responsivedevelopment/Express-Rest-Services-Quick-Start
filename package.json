@@ -1,0 +1,12 @@
+{
+  "name": "exampleApi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+	"body-parser": "*",
+    "express": "*"
+  }
+
+  }
